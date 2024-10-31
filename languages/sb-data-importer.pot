@@ -1,0 +1,171 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SB data importer - WP all import add-on\n"
+"POT-Creation-Date: 2018-04-09 11:02+0500\n"
+"PO-Revision-Date: 2018-04-09 11:02+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: adforest/adforest.php:11
+msgid "Ad poster name"
+msgstr ""
+
+#: adforest/adforest.php:12
+msgid "Ad poster contact"
+msgstr ""
+
+#: adforest/adforest.php:13
+msgid "Ad location"
+msgstr ""
+
+#: adforest/adforest.php:13
+msgid "Ad poster location."
+msgstr ""
+
+#: adforest/adforest.php:22
+msgid "Ad type"
+msgstr ""
+
+#: adforest/adforest.php:30
+msgid "Ad condition"
+msgstr ""
+
+#: adforest/adforest.php:39
+msgid "Ad warranty"
+msgstr ""
+
+#: adforest/adforest.php:42
+msgid "Ad price"
+msgstr ""
+
+#: adforest/adforest.php:42
+msgid "Price or keep it empty if not applicable."
+msgstr ""
+
+#: adforest/adforest.php:44
+msgid "Ad price type"
+msgstr ""
+
+#: adforest/adforest.php:44
+msgid "It can be fixed, negotiable or free or keep it empty if not applicable."
+msgstr ""
+
+#: adforest/adforest.php:46
+msgid "Currency"
+msgstr ""
+
+#: adforest/adforest.php:46
+msgid "Price in currency"
+msgstr ""
+
+#: adforest/adforest.php:48
+msgid "Latitude"
+msgstr ""
+
+#: adforest/adforest.php:48
+msgid "Latitude for Google map."
+msgstr ""
+
+#: adforest/adforest.php:50
+msgid "Logitude"
+msgstr ""
+
+#: adforest/adforest.php:50
+msgid "Logitude for Google map."
+msgstr ""
+
+#: adforest/adforest.php:53
+msgid "Allow bidding on Ad? Use 1 for ON and 0 for OFF"
+msgstr ""
+
+#: adforest/adforest.php:55
+msgid "Off"
+msgstr ""
+
+#: adforest/adforest.php:56
+msgid "On"
+msgstr ""
+
+#: adforest/adforest.php:60
+msgid "Bidding end date"
+msgstr ""
+
+#: adforest/adforest.php:60
+msgid "If empty then bidding remain opened unless ad owner closed it."
+msgstr ""
+
+#: adforest/adforest.php:62
+msgid "Youtube video link"
+msgstr ""
+
+#: adforest/adforest.php:64
+msgid "Ad current status; use active, sold or expired"
+msgstr ""
+
+#: adforest/adforest.php:66
+msgid "Active"
+msgstr ""
+
+#: adforest/adforest.php:67
+msgid "Sold"
+msgstr ""
+
+#: adforest/adforest.php:68
+msgid "Expired"
+msgstr ""
+
+#: adforest/adforest.php:72
+msgid "Ad class; use 0 for regular and 1 for featured."
+msgstr ""
+
+#: adforest/adforest.php:74
+msgid "Regular"
+msgstr ""
+
+#: adforest/adforest.php:75
+msgid "Featured"
+msgstr ""
+
+#: adforest/adforest.php:79
+msgid "Featured date"
+msgstr ""
+
+#: adforest/adforest.php:79
+msgid "The date in which ad became featured."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "SB data importer - WP all import add-on"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://themeforest.net/item/adforest-classified-wordpress-theme/19481695"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Import your data into scriptsbundle themes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/scriptsbundle/"
+msgstr ""
